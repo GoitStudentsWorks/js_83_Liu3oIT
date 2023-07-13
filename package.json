@@ -3,9 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://GoitStudentsWorks.github.io/js_83_Liu3oIT",
   "scripts": {
     "start": "vite",
-    "build": "vite build --base=/books/",
+    "build": "vite build --base=/js_83_Liu3oIT/",
     "preview": "vite preview"
   },
   "devDependencies": {
